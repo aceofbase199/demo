@@ -3,5 +3,10 @@
     { "id": 1, "userName": "test1", "password": "123" },
     { "id": 2, "userName": "test2", "password": "123" },
     { "id": 3, "userName": "qwerty", "password": "123" }
+  ],
+  "events": [
+    { "id": 1, "eventName": ".Net Community", "location": "Lviv", "Date": 2019-11-15T19:43:37+0100, "organizer": "Epam" },
+    { "id": 2, "eventName": "Angular Intro", "location": "Krakiv", "Date": 2019-10-14T19:43:37+0100, "organizer": "Kinetik" },
+    { "id": 3, "eventName": "Unit/Integration tests", "location": "Kyiv", "Date": 2019-11-04T19:43:37+0100, "organizer": "SoftServe" }
   ]
 }
